@@ -30,7 +30,7 @@
         {"predicate": {"custom_model_data":22}, "model": "item/drink/vegetable_soup"},
         {"predicate": {"custom_model_data":23}, "model": "item/drink/programmerdans_power_coffee"},
         {"predicate": {"custom_model_data":24}, "model": "item/drink/white_wine"},
-        {"predicate": {"custom_model_data":25}, "model": "item/drink/white_whiskey"},
+        {"predicate": {"custom_model_data":25}, "model": "item/drink/chardonnay"},
         {"predicate": {"custom_model_data":26}, "model": "item/drink/scotch"},
         {"predicate": {"custom_model_data":27}, "model": "item/drink/amaretto"},
         {"predicate": {"custom_model_data":28}, "model": "item/drink/orinnaris_amaretto"},

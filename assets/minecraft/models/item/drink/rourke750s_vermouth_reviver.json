@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/rourke750s_vermouth_reviver",
+		"layer1": "item/rourke750s_vermouth_reviver"
+	}
+}

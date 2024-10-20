@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/stately_red_wine",
+		"layer1": "item/stately_red_wine"
+	}
+}

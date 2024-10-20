@@ -4,6 +4,21 @@
 			"tte:movecraft/pilot/torpedo_launch_1"
 		]
 	},
+	"movecraft.pilot.bomb": {
+		"sounds": [
+			"tte:movecraft/pilot/bomb_launch_1"
+		]
+	},
+	"movecraft.pilot.bigbomb": {
+		"sounds": [
+			"tte:movecraft/pilot/bomb_launch_1"
+		]
+	},
+	"movecraft.pilot.megabomb": {
+		"sounds": [
+			"tte:movecraft/pilot/bomb_launch_1"
+		]
+	},
 	"movecraft.rotate.turret": {
 		"sounds": [
 			"tte:movecraft/rotate/turret_turn_1"

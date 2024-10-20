@@ -1,0 +1,17 @@
+{
+	"movecraft.pilot.torpedo": {
+		"sounds": [
+			"tte:movecraft/pilot/torpedo_launch_1"
+		]
+	},
+	"movecraft.rotate.turret": {
+		"sounds": [
+			"tte:movecraft/rotate/turret_turn_1"
+		]
+	},
+	"movecraft.honk.dreadnought": {
+		"sounds": [
+			"tte:movecraft/honk/dreadnought_horn_1"
+		]
+	}
+}

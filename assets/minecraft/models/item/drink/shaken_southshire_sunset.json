@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/shaken_southshire_sunset",
+		"layer1": "item/shaken_southshire_sunset"
+	}
+}

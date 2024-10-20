@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/dark_lager",
+		"layer1": "item/dark_lager"
+	}
+}

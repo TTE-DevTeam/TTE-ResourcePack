@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/gjums_grape_juice_on_ice",
+		"layer1": "item/gjums_grape_juice_on_ice"
+	}
+}

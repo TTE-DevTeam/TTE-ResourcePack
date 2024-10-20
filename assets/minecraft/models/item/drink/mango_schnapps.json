@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/mango_schnapps",
+		"layer1": "item/mango_schnapps"
+	}
+}

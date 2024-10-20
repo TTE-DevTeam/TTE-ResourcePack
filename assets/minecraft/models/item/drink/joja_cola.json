@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/joja_cola",
+		"layer1": "item/joja_cola"
+	}
+}

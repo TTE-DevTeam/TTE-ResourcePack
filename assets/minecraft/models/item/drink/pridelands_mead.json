@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pridelands_mead",
+		"layer1": "item/pridelands_mead"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/sugarcane_juice",
+		"layer1": "item/sugarcane_juice"
+	}
+}

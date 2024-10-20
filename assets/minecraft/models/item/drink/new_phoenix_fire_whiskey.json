@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/new_phoenix_fire_whiskey",
+		"layer1": "item/new_phoenix_fire_whiskey"
+	}
+}

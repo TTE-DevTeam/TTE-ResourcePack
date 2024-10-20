@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/griffin_gold_whiskey",
+		"layer1": "item/griffin_gold_whiskey"
+	}
+}

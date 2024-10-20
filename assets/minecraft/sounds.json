@@ -1,30 +1,36 @@
 {
 	"movecraft.pilot.torpedo": {
+		"subtitle": "movecraft.pilot.torpedo",
 		"sounds": [
 			"tte:movecraft/pilot/torpedo_launch_1"
 		]
 	},
 	"movecraft.pilot.bomb": {
+		"subtitle": "movecraft.pilot.bomb",
 		"sounds": [
 			"tte:movecraft/pilot/bomb_launch_1"
 		]
 	},
 	"movecraft.pilot.bigbomb": {
+		"subtitle": "movecraft.pilot.bigbomb",
 		"sounds": [
 			"tte:movecraft/pilot/bomb_launch_1"
 		]
 	},
 	"movecraft.pilot.megabomb": {
+		"subtitle": "movecraft.pilot.megabomb",
 		"sounds": [
 			"tte:movecraft/pilot/bomb_launch_1"
 		]
 	},
 	"movecraft.rotate.turret": {
+		"subtitle": "movecraft.rotate.turret",
 		"sounds": [
 			"tte:movecraft/rotate/turret_turn_1"
 		]
 	},
 	"movecraft.honk.dreadnought": {
+		"subtitle": "movecraft.craft.honk",
 		"sounds": [
 			"tte:movecraft/honk/dreadnought_horn_1"
 		]

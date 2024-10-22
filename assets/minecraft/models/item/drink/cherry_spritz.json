@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/cherry_spritz",
+		"layer1": "item/cherry_spritz"
+	}
+}

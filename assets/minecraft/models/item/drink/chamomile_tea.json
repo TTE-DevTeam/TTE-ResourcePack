@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/chamomile_tea",
+		"layer1": "item/chamomile_tea"
+	}
+}

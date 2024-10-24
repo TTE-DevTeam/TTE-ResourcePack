@@ -53,6 +53,13 @@
         {"predicate": {"custom_model_data":45}, "model": "item/drink/iced_coffee"},
         {"predicate": {"custom_model_data":46}, "model": "item/drink/cherry_liqueur"},
         {"predicate": {"custom_model_data":47}, "model": "item/drink/cherry_spritz"},
-        {"predicate": {"custom_model_data":48}, "model": "item/drink/dirt_wine"}
+        {"predicate": {"custom_model_data":48}, "model": "item/drink/dirt_wine"},
+        {"predicate": {"custom_model_data":49}, "model": "item/drink/black_tea"},
+        {"predicate": {"custom_model_data":50}, "model": "item/drink/chamomile_tea"},
+        {"predicate": {"custom_model_data":51}, "model": "item/drink/earl_grey"},
+        {"predicate": {"custom_model_data":52}, "model": "item/drink/english_breakfast_tea"},
+        {"predicate": {"custom_model_data":53}, "model": "item/drink/green_tea"},
+        {"predicate": {"custom_model_data":54}, "model": "item/drink/melon_iced_tea"},
+        {"predicate": {"custom_model_data":55}, "model": "item/drink/irish_cream"}
 	]
 }

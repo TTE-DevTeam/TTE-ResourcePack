@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/maxoplopys_beer_garden",
+		"layer1": "item/maxoplopys_beer_garden"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/limoncello",
+		"layer1": "item/limoncello"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/latte",
+		"layer1": "item/latte"
+	}
+}

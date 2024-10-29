@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bifrost_vodka",
+		"layer1": "item/bifrost_vodka"
+	}
+}

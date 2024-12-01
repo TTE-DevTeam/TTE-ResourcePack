@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bees_knees",
+		"layer1": "item/bees_knees"
+	}
+}

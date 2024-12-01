@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/frog_grog",
+		"layer1": "item/frog_grog"
+	}
+}

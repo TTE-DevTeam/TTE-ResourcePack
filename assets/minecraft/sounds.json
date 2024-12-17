@@ -48,7 +48,7 @@
 		"subtitle": "movecraft.sink.airskiff",
 		"sounds": [
 			{
-				"name": "tte:movecraft/sink/skiff_sink_1.ogg",
+				"name": "tte:movecraft/sink/skiff_sink_1",
 				"attenuation_distance": 256
 			}
 		]

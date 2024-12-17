@@ -44,6 +44,15 @@
 			}
 		]
 	},
+	"movecraft.sink.airskiff": {
+		"subtitle": "movecraft.sink.airskiff",
+		"sounds": [
+			{
+				"name": "tte:movecraft/sink/skiff_sink_1.ogg",
+				"attenuation_distance": 256
+			}
+		]
+	},
 	"movecraft.honk.dreadnought": {
 		"subtitle": "movecraft.craft.honk",
 		"sounds": [

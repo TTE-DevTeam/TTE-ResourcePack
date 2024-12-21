@@ -64,7 +64,7 @@
         {"predicate": {"custom_model_data":56}, "model": "item/drink/espresso"},
 	{"predicate": {"custom_model_data":57}, "model": "item/drink/americano"},
 	{"predicate": {"custom_model_data":58}, "model": "item/drink/latte"},
-        {"predicate": {"custom_model_data":59}, "model": "item/drink/drink/venne_vodka"},
+        {"predicate": {"custom_model_data":59}, "model": "item/drink/venne_vodka"},
 	{"predicate": {"custom_model_data":60}, "model": "item/drink/tomboy_tequila"},
 	{"predicate": {"custom_model_data":61}, "model": "item/drink/brandy"},
         {"predicate": {"custom_model_data":62}, "model": "item/drink/bees_knees"},

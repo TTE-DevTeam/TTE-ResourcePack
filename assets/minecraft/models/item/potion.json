@@ -64,11 +64,20 @@
         {"predicate": {"custom_model_data":56}, "model": "item/espresso"},
 	{"predicate": {"custom_model_data":57}, "model": "item/americano"},
 	{"predicate": {"custom_model_data":58}, "model": "item/latte"},
-	{"predicate": {"custom_model_data":59}, "model": "item/mocha"},
+        {"predicate": {"custom_model_data":59}, "model": "item/drink/venne_vodka"},
 	{"predicate": {"custom_model_data":60}, "model": "item/tomboy_tequila"},
 	{"predicate": {"custom_model_data":61}, "model": "item/brandy"},
         {"predicate": {"custom_model_data":62}, "model": "item/drink/bees_knees"},
         {"predicate": {"custom_model_data":63}, "model": "item/drink/frog_grog"},
-        {"predicate": {"custom_model_data":64}, "model": "item/drink/sake"}
+        {"predicate": {"custom_model_data":64}, "model": "item/drink/sake"},
+        {"predicate": {"custom_model_data":65}, "model": "item/drink/cachaca"},
+        {"predicate": {"custom_model_data":66}, "model": "item/drink/kombucha"},
+        {"predicate": {"custom_model_data":67}, "model": "item/drink/sarsaparilla"},
+        {"predicate": {"custom_model_data":68}, "model": "item/drink/jaeger_maester"},
+        {"predicate": {"custom_model_data":69}, "model": "item/drink/redbush_tea"},
+        {"predicate": {"custom_model_data":70}, "model": "item/drink/beef_broth"},
+        {"predicate": {"custom_model_data":71}, "model": "item/drink/saffron"},
+        {"predicate": {"custom_model_data":72}, "model": "item/drink/luck_of_the_irish"},
+        {"predicate": {"custom_model_data":73}, "model": "item/drink/tonic"}
 	]
 }

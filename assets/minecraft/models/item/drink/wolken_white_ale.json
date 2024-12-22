@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/wolken_white_ale",
+		"layer1": "item/wolken_white_ale"
+	}
+}

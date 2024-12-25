@@ -80,6 +80,8 @@
         {"predicate": {"custom_model_data":72}, "model": "item/drink/luck_of_the_irish"},
         {"predicate": {"custom_model_data":73}, "model": "item/drink/tonic"},
         {"predicate": {"custom_model_data":74}, "model": "item/drink/wolken_white_ale"},
-        {"predicate": {"custom_model_data":75}, "model": "item/drink/meracydian_mule"}
+        {"predicate": {"custom_model_data":75}, "model": "item/drink/meracydian_mule"},
+        {"predicate": {"custom_model_data":76}, "model": "item/drink/creme_de_menthe"},
+        {"predicate": {"custom_model_data":77}, "model": "item/drink/leninade"}
 	]
 }

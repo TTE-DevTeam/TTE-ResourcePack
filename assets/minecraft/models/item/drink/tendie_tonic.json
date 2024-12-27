@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/tendie_tonic",
+		"layer1": "item/tendie_tonic"
+	}
+}

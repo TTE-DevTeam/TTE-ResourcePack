@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/mint_extract",
+		"layer1": "item/mint_extract"
+	}
+}

@@ -84,6 +84,7 @@
         {"predicate": {"custom_model_data":76}, "model": "item/drink/creme_de_menthe"},
         {"predicate": {"custom_model_data":77}, "model": "item/drink/leninade"},
         {"predicate": {"custom_model_data":78}, "model": "item/drink/mint_extract"},
-        {"predicate": {"custom_model_data":79}, "model": "item/drink/tendie_tonic"}
+        {"predicate": {"custom_model_data":79}, "model": "item/drink/tendie_tonic"},
+        {"predicate": {"custom_model_data":80}, "model": "item/drink/azarath_mead"}
 	]
 }

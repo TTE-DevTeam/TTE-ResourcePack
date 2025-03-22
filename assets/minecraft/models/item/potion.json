@@ -85,6 +85,8 @@
         {"predicate": {"custom_model_data":77}, "model": "item/drink/leninade"},
         {"predicate": {"custom_model_data":78}, "model": "item/drink/mint_extract"},
         {"predicate": {"custom_model_data":79}, "model": "item/drink/tendie_tonic"},
-        {"predicate": {"custom_model_data":80}, "model": "item/drink/azarath_mead"}
+        {"predicate": {"custom_model_data":80}, "model": "item/drink/azarath_mead"},
+        {"predicate": {"custom_model_data":81}, "model": "item/drink/vegetable_smoothie"},
+        {"predicate": {"custom_model_data":82}, "model": "item/drink/maraschino"}
 	]
 }

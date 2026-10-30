@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/merlot",
+		"layer1": "item/merlot"
+	}
+}

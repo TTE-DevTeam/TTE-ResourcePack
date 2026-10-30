@@ -85,7 +85,7 @@
       { "threshold": 76, "model": { "type": "model", "model": "item/drink/creme_de_menthe" } },
       { "threshold": 77, "model": { "type": "model", "model": "item/drink/leninade" } },
       { "threshold": 78, "model": { "type": "model", "model": "item/drink/mint_extract" } },
-      { "threshold": 79, "model": { "type": "model", "model": "item/drink/tendie_tonic" } },
+      { "threshold": 79, "model": { "type": "model", "model": "item/drink/merlot" } },
       { "threshold": 80, "model": { "type": "model", "model": "item/drink/azarath_mead" } },
       { "threshold": 81, "model": { "type": "model", "model": "item/drink/vegetable_smoothie" } },
       { "threshold": 82, "model": { "type": "model", "model": "item/drink/maraschino" } }
